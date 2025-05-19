@@ -1,4 +1,4 @@
-# 54 Fundamental Computer Vision Interview Questions
+# 54 Fundamental Computer Vision Interview Questions in 2025
 
 <div>
 <p align="center">
